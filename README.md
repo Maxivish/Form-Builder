@@ -4,8 +4,6 @@
 
 Simple web application to create custom questionnaire forms.
 
-Deployed on Vercel - [Form Builder](https://form-builder-client.vercel.app)
-
 ## To Run the Project Locally
 
 - clone repo
