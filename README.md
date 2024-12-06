@@ -4,7 +4,7 @@
 
 Simple web application to create custom questionnaire forms.
 
-form-builder-maxivish.vercel.app
+https://form-builder-maxivish.vercel.app
 
 ## To Run the Project Locally
 
